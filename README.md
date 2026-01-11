@@ -1,6 +1,6 @@
 # Constitutional Classifier++
 
-A production-grade, two-stage jailbreak defense system for Large Language Models that balances robustness with computational efficiency.
+A two-stage jailbreak defense system for Large Language Models that balances robustness with computational efficiency.
 
 ## Overview
 
